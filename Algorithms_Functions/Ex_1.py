@@ -15,11 +15,9 @@ for i in range(1):
 def arranjo(N, P):
     for n in range(1, N):
         A = fact(n)/(fact (n - P))
-        
-        print("O valor será", A)
-n = 8
-P = 6
 
+    
+        print("O valor será", A)
 
    
     
