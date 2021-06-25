@@ -2,5 +2,5 @@
 
 num = []
 
-def verifica_num(num ,lista):
-    while 
+#def verifica_num(num ,lista):
+    #while 
