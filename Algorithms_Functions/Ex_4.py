@@ -13,7 +13,7 @@ print('-' *30)
 for l in range(0, 4):
     for c in range(0, 4):
         print(f'[{matriz[l][c]:^5}]', end='')
-        if l == c:
-            DP
+        # if l == c:
+        #     DP
 
     print()

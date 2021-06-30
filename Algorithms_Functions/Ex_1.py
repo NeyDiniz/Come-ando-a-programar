@@ -14,7 +14,7 @@ n = 8
 p = 4
 
 def arranjo(n, p):
-    i = 1
+    i = 1 
     f = 1
     while n > 0:
         f *= n
