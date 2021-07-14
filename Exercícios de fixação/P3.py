@@ -1,3 +1,3 @@
-arquivo = open('roman.txt', 'r') 
-conteudo = arquivo.read() 
-print(conteudo)
+arquivo = open('roman.txt', 'w') 
+for linha in range(1, XXXXVIIII):
+    
