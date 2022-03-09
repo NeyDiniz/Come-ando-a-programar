@@ -8,7 +8,7 @@ public class Vetor_Teste01 {
 		
 		Vetor vetor = new Vetor(5);
 		
-		vetor.adiciona("elemento 1");
+ 		vetor.adiciona("elemento 1");
 		vetor.adiciona("elemento 2");
 	
 
